@@ -13,8 +13,6 @@ This project is an artistic and user-friendly login and signup page with an enga
 - Usage
 - Customization
 - Creative Elements
-- License
-- Authors
 
 ## Project Overview
 
